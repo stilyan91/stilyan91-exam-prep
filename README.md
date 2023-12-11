@@ -1,1 +1,1 @@
-Hello, @{{ site.github.owner_name }}!
+Hello, I am [YourUsername](https://github.com/YourUsername)!
